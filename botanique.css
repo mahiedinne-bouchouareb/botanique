@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+body {
+    font-family: 'Noto Sans Mono', monospace;
+    color:black;
+    }
+
+.sakura {
+    background-image:url(https://i.pinimg.com/originals/21/cd/d3/21cdd398811299138f2a56b91a4c9341.jpg);
+}
+
+.midlane {
+    margin-left: 0px;
+    }
+.presente {
+        display: flex;
+        flex-direction: row;
+        justify-content :center;
+        background: blue;
+    }
+    .centrer {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+.imagecentre {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.fond {
+    background-color: rgb(0, 255, 34);
+}
+
+html, body{
+    margin: 0;padding: 0;
+}
+
+.menu{
+    background: #D500F9;
+    width: 100%;
+    height: 60px;
+    line-height: 66px;
+}
+
+.m-left{
+    float: left;
+}
+
+.m-right{
+    float: right;
+}
+
+.inner{
+    width: 80%;
+    margin: auto;
+}
+
+.logo{
+    margin: 0%;padding: 0;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'roboto';
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 1px;
+}
+
+.m-link{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0px;margin: 0 10px;
+    transition: all 0.3s ease-in-out;
+    border-bottom: 2px solid transparent;
+}
+
+.m-link:hover{
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.tonback{
+        color:black;
+        background-color:white;
+        background-image:url"https://img1.wallspic.com/originals/3/0/5/5/6/165503-feuille-palmier-esthetique-azure-botanique-3840x2160.png";
+        }
+    
+P.blocktext {
+            margin-left: auto;
+            margin-right: auto;
+            width: 6em
+        }
+        
+.centrage {text-align: center;}
+
+.colortexthalo{
+    margin-left: 0px;
+    color: white;
+}
+
+.reid{
+        width: 10px;
+        height: 10px;
+        max-width: 100%;
+        height: auto;
+    }
+
+.reyd{
+    width: 70%;
+}
+
+.rold{
+    width: 10%;
+}
+
+.image-presente{
+    width: 10%;
+}
+
+.image-presente1{
+    width: 10%;
+    text-align: left;
+}
+
+.image-presente2{
+    width: 10%;
+    text-align: right;
+}
+
+.presente2{
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+
+.conteneur {
+    display: flex;
+    justify-content: center;
+    width: 10%;
+  }
+  
+  img {
+    width: 200px;
+  }
+
+  .lampion
+  {
+     float:left;
+     margin:0 10px; /* 10px a droite et a gauche de l image */
+     padding:0;
+     width: 130px;
+     height: 120px;
+  }
+
+  .lampion1
+  {
+     float:left;
+     margin:60px; /* 10px a droite et a gauche de l image */
+     margin-top: 25px;
+     padding:0;
+     width: 130px;
+     height: 120px;
+     color: white;
+  }
+
+  .lampion2
+  {
+     float:right;
+     margin:0 10px; /* 10px a droite et a gauche de l image */
+     margin-right: 80px;
+     padding:0;
+     width: 130px;
+     height: 120px;
+  }
+
+  .lampion3
+  {
+     float:right;
+     margin:60px; /* 10px a droite et a gauche de l image */
+     margin-top: -5px;
+     padding:0;
+     width: 130px;
+     height: 120px;
+     color: white;
+  }
+
+  .lampion4
+  {
+     float:right;
+     margin:60px; /* 10px a droite et a gauche de l image */
+     margin-top: -80px;
+     padding: 0;
+     width: 130px;
+     height: 120px;
+     color: white;
+  }
+
+  .lampion5
+  {
+     float:left;
+     margin:0 10px; /* 10px a droite et a gauche de l image */
+     padding:0;
+     width: 130px;
+     height: 120px;
+  }
+
+  .lampion6
+  {
+     float:left;
+     margin:60px; /* 10px a droite et a gauche de l image */
+     margin-top: -42px;
+     padding:0;
+     width: 130px;
+     height: 120px;
+     color: white;
+  }
+
+  
+
+  
+
+
+
+.blvm{
+    text-align: center;
+    color: white;
+}
+
+
+
+.presentation {text-align: center;
+    color: rgba(136, 22, 230, 0.877);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+    font-size: 100px;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+ 
+    p {
+        color: #000;
+    font-weight: bold;
+    }
+
+    .bluebackground{
+    background-color:rgb(82, 181, 211);
+    }
+
+    .legumebackground{
+
+        background-color:rgb(127, 189, 117);
+   
+    }
+
+    .legumes {text-align: center;
+        color: rgb(23, 23, 167);
+        font-family: cursive;
+        margin-bottom: 100px;
+        font-size: 100px;
+        text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+        }
+        
+        .introduction {text-align: center;
+            
+        }
+        .image-intro {
+        width: 1700px;
+        height: 400px;
+        object-position: bottom;
+        object-fit: cover;
+        }
+        
+        .fleur {text-align: center;
+            color: rgb(23, 23, 167);
+            font-family: cursive;
+            margin-bottom: 100px;
+            font-size: 100px;
+            text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+            }
+
+            .rdimage{
+                width: 800px;
+                height: 400px;
+            }
+
+            .backgroudfleur{
+                background-color:rgb(79, 236, 229);
+            }
